@@ -1,0 +1,10 @@
+//
+// Created by q2585 on 2023-12-29.
+//
+
+#ifndef CODING_GRIDFETCHNUMBER_H
+#define CODING_GRIDFETCHNUMBER_H
+
+
+
+#endif //CODING_GRIDFETCHNUMBER_H

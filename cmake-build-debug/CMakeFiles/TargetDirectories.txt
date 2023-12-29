@@ -1,0 +1,5 @@
+/cygdrive/d/git/coding/cmake-build-debug/CMakeFiles/coding.dir
+/cygdrive/d/git/coding/cmake-build-debug/CMakeFiles/main.dir
+/cygdrive/d/git/coding/cmake-build-debug/CMakeFiles/GridFetchNumber.dir
+/cygdrive/d/git/coding/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/d/git/coding/cmake-build-debug/CMakeFiles/rebuild_cache.dir
