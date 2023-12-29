@@ -52,6 +52,8 @@ NOIP 2000 提高组 T4
 
 数据范围：$1\le N\le 9$。
  */
+
+//利用维数变量来降维
 using namespace std;
 
 const int MAX_N = 10;
